@@ -1,0 +1,12 @@
+.list {
+  display: flex;
+  justify-content: space-around;
+  width: 200px;
+  margin-bottom: 15px;
+}
+
+.listButton {
+  cursor: pointer;
+  border-radius: 5px;
+  width: 50px;
+}
